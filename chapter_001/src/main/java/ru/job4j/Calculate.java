@@ -18,11 +18,6 @@ public class Calculate {
 		
 		System.out.println("Hello world");
 		
-	}
-
-  /**
-   * Вывод строки в консоль.
-   * @param args - args.
-   */
-}
+	    }
+  }
 
